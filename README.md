@@ -1,2 +1,5 @@
-git add .
-git commit -m "Initial project setup with folder structure and README"
+<<<<<<< HEAD
+Your local content
+=======
+GitHub content
+>>>>>>> main
