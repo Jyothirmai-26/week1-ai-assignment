@@ -1,1 +1,1 @@
-My AI Assisent
+My AI Assignment
